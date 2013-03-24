@@ -1,0 +1,7 @@
+URLWATCH = ''
+URL = ''
+HOOK = ''
+SMS_USER = ''
+SMS_PASSWD = ''
+CALLBACK = ''
+CALLNO = ''
